@@ -6,7 +6,25 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy coding, traveling, and problem-solving.
 
-
+- 😄 SKILLS
+  - PYTHON
+  - DSA
+  - OOP
+  - MODULES IN PYTHON 
+    - MYSQL
+    - MONGODB
+    - POSTGRESQL
+    - NUMPY
+    - PANDA
+    - MATPLOTLIB
+    - SEABORN
+    - TENSORFLOW
+    - PYTOURCH
+    - KERAS
+    - SCIPY
+  - JUPYTER NOTEBOOK
+  - STATISTICS AND PROBABILITY
+  - LINEAR ALGEBRA
 
 
 <!---
