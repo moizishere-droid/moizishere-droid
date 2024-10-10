@@ -6,19 +6,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy coding, traveling, and problem-solving.
 
-## Skills
-- Python
-- Machine Learning
-- Data Analysis
-- Web Development
-- SQL
-
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F20?style=flat&logo=tensorflow&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F20?style=flat&logo=python&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Development-FF6F20?style=flat&logo=html5&logoColor=white)
-
 
 
 
