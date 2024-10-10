@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML in Python.
 - 🌱 I’m currently learning AI/ML in Python.
 - 💞️ I’m looking to collaborate on AI/ML projects.
-- 📫 How to reach me: [Email](abdulmoiz28.7.2002@gmail.com) | [LinkedIn]((abdul-moiz-a70678265))
+- 📫 How to reach me: [Email](abdulmoiz28.7.2002@gmail.com) | [LinkedIn](([abdul-moiz-a70678265](https://www.linkedin.com/in/abdul-moiz-a70678265)))
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy coding, traveling, and problem-solving.
 
